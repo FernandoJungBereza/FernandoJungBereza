@@ -26,7 +26,7 @@ Atualmente trabalho com aplicações web utilizando **Next.js**, **React**, **Ty
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoJungBereza&theme=tokyonight" />
+  <img src="https://img.shields.io/github/search/v/FernandoJungBereza?style=for-the-badge&label=Total%20Contributions&color=7aa2f7&logo=github" />
 </div>
 
 ---
