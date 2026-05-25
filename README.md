@@ -8,19 +8,13 @@ Atualmente trabalho com aplicações web utilizando **Next.js**, **React**, **Ty
 
 ## 🚀 Tecnologias
 
-<div style="display: inline_block">
-  <img align="center" alt="NextJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  
-  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  
-  <img align="center" alt="NestJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-  
-  <img align="center" alt="Tailwind" height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-  
-  <img align="center" alt="TypeORM" height="40" width="40" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nestjs,tailwind" />
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typeorm/typeorm-original.svg" width="50" height="50"/>
+</p>
 
 ---
 
@@ -41,7 +35,7 @@ Atualmente trabalho com aplicações web utilizando **Next.js**, **React**, **Ty
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoJungBereza&layout=compact&langs_count=7&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoJungBereza&theme=tokyonight"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=FernandoJungBereza&theme=tokyonight"/>
 
 </div>
 
