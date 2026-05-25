@@ -23,14 +23,6 @@ Atualmente trabalho com aplicações web utilizando **Next.js**, **React**, **Ty
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://img.shields.io/github/search/v/FernandoJungBereza?style=for-the-badge&label=Total%20Contributions&color=7aa2f7&logo=github" />
-</div>
-
----
-
 ## 🌎 Contato
 
 <a href="https://www.linkedin.com/in/fernando-jung-bereza-577884287" target="_blank">
